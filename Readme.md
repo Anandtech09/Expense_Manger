@@ -16,7 +16,6 @@
 ### 2.2 Authentication (Optional)Implement a basic authentication mechanism using OAuthSecure the `POST /expenses/` and `GET /expenses/` endpoints with authentication
 
 ## To run project
-`bash 
-cd main
-python main.py`
+`cd main`
+`python main.py`
 
